@@ -11,8 +11,8 @@ Then we will click on <b>Create</b>
 <img src="https://i.imgur.com/AaHxiff.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-As with any Azure resource, we need to provide a subscription. In my case, this is already filled and then we select the correct resource group (DemoRG). Then we give a name to the workspace and we slect the region 
-and then we click on next.
+As with any Azure resource, we need to provide a subscription. In my case, this is already filled and then we select the correct resource group (DemoRG). Then we give a name to the workspace, select the region 
+and we click on next.
 
 <img src="https://i.imgur.com/e0GnwZO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
