@@ -17,7 +17,22 @@ and we click on next.
 <img src="https://i.imgur.com/e0GnwZO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+We will leave this empty.
 
+<img src="https://i.imgur.com/T3wae4h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+We will confirm everything is correct, wait for the validation to pass and then click on <b>Create</b>.
+
+<img src="https://i.imgur.com/97f3MxU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+Now the Log Analytics workspace is being deployed to the resource group. We will wait for the deployment to complete.
+
+<img src="https://i.imgur.com/9Ream7T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+If we click on "<b>Go to resource</b>" we can have a look at the resource and start to deploy Sentinel.
+
+<img src="https://i.imgur.com/EFwfazh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
